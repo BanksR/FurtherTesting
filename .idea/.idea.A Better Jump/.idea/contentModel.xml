@@ -10,9 +10,6 @@
           <e p="GravityTweakJump.cs" t="Include" />
           <e p="SimpleJump.cs" t="Include" />
         </e>
-        <e p="DoorScript.cs" t="Include" />
-        <e p="Inventory.cs" t="Include" />
-        <e p="KeyPickup.cs" t="Include" />
         <e p="Keys and Doors" t="Include">
           <e p="DoorScript.cs" t="Include" />
           <e p="Inventory.cs" t="Include" />
