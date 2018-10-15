@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F73845D4-8E9A-C2B1-A0D4-DC690B116E4F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ABetterJump.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ABetterJump.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
