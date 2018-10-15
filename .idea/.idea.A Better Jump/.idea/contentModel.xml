@@ -4,6 +4,9 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="A Better Jump.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/DoorScript.cs" t="Include" />
+      <e p="Assets/Inventory.cs" t="Include" />
+      <e p="Assets/KeyPickup.cs" t="Include" />
       <e p="Assets/Scripts" t="Include">
         <e p="A Better Jump" t="Include">
           <e p="ABetterJump.cs" t="Include" />

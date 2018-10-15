@@ -56,6 +56,9 @@
     <Compile Include="Assets\Scripts\A Better Jump\ABetterJump.cs" />
     <Compile Include="Assets\Scripts\A Better Jump\GravityTweakJump.cs" />
     <Compile Include="Assets\Scripts\A Better Jump\SimpleJump.cs" />
+    <Compile Include="Assets\Scripts\DoorScript.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
+    <Compile Include="Assets\Scripts\KeyPickup.cs" />
     <Compile Include="Assets\Scripts\Move.cs" />
     <Compile Include="Assets\Scripts\Raycasting.cs" />
     <Reference Include="UnityEngine.UI">
@@ -128,6 +131,7 @@
       <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
+<<<<<<< Updated upstream
   <ItemGroup>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -138,4 +142,6 @@
       <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
+=======
+>>>>>>> Stashed changes
 </Project>

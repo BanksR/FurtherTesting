@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea3d5bc-3da3-43ff-8f08-45cc85033c2e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BasicMover.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BasicMover.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.A Better Jump/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.A Better Jump/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.A Better Jump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.A Better Jump/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Move.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Move.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
                 <marker date="1539611181521" expanded="false" signature="6:116" ph="..." />
                 <marker date="1539611181521" expanded="true" signature="151:461" ph="{...}" />
@@ -31,13 +40,65 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="KeyPickup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/KeyPickup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1539612385163" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539612385163" expanded="true" signature="118:312" ph="{...}" />
+                <marker date="1539612385163" expanded="true" signature="214:310" ph="{...}" />
+                <marker date="1539612385163" expanded="true" signature="262:307" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoorScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DoorScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <marker date="1539613184961" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539613184961" expanded="true" signature="119:779" ph="{...}" />
+                <marker date="1539613184961" expanded="true" signature="250:603" ph="{...}" />
+                <marker date="1539613184961" expanded="true" signature="298:600" ph="{...}" />
+                <marker date="1539613184961" expanded="true" signature="472:596" ph="{...}" />
+                <marker date="1539613184961" expanded="true" signature="506:591" ph="{...}" />
+                <marker date="1539613184961" expanded="true" signature="635:777" ph="{...}" />
+                <marker date="1539613184961" expanded="true" signature="722:752" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inventory.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Inventory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <marker date="1539612825232" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539612825232" expanded="true" signature="119:457" ph="{...}" />
+                <marker date="1539612825232" expanded="true" signature="227:318" ph="{...}" />
+                <marker date="1539612825232" expanded="true" signature="365:453" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KeyPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DoorScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,6 +109,9 @@
         <option value="$PROJECT_DIR$/Assets/Raycasting.cs" />
         <option value="$PROJECT_DIR$/Assets/GravityTweakJump.cs" />
         <option value="$PROJECT_DIR$/Assets/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/KeyPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/DoorScript.cs" />
       </list>
     </option>
   </component>
@@ -134,12 +198,12 @@
       <workItem from="1539425137603" duration="5089000" />
       <workItem from="1539593734757" duration="278000" />
       <workItem from="1539610833387" duration="495000" />
-      <workItem from="1539611375190" duration="290000" />
+      <workItem from="1539611375190" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14153000" />
+    <option name="totallyTimeSpent" value="15030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,13 +289,56 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
             <marker date="1539611181521" expanded="false" signature="6:116" ph="..." />
             <marker date="1539611181521" expanded="true" signature="151:461" ph="{...}" />
             <marker date="1539611181521" expanded="true" signature="235:278" ph="{...}" />
             <marker date="1539611181521" expanded="true" signature="307:370" ph="{...}" />
             <marker date="1539611181521" expanded="true" signature="404:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DoorScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1539613184961" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539613184961" expanded="true" signature="119:779" ph="{...}" />
+            <marker date="1539613184961" expanded="true" signature="250:603" ph="{...}" />
+            <marker date="1539613184961" expanded="true" signature="298:600" ph="{...}" />
+            <marker date="1539613184961" expanded="true" signature="472:596" ph="{...}" />
+            <marker date="1539613184961" expanded="true" signature="506:591" ph="{...}" />
+            <marker date="1539613184961" expanded="true" signature="635:777" ph="{...}" />
+            <marker date="1539613184961" expanded="true" signature="722:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KeyPickup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1539612385163" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539612385163" expanded="true" signature="118:312" ph="{...}" />
+            <marker date="1539612385163" expanded="true" signature="214:310" ph="{...}" />
+            <marker date="1539612385163" expanded="true" signature="262:307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Inventory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <marker date="1539612825232" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539612825232" expanded="true" signature="119:457" ph="{...}" />
+            <marker date="1539612825232" expanded="true" signature="227:318" ph="{...}" />
+            <marker date="1539612825232" expanded="true" signature="365:453" ph="{...}" />
           </folding>
         </state>
       </provider>
