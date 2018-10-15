@@ -4,11 +4,14 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="A Better Jump.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets/GravityTweakJump.cs" t="Include" />
-      <e p="Assets/Raycasting.cs" t="Include" />
       <e p="Assets/Scripts" t="Include">
-        <e p="ABetterJump.cs" t="Include" />
-        <e p="SimpleJump.cs" t="Include" />
+        <e p="A Better Jump" t="Include">
+          <e p="ABetterJump.cs" t="Include" />
+          <e p="GravityTweakJump.cs" t="Include" />
+          <e p="SimpleJump.cs" t="Include" />
+        </e>
+        <e p="Move.cs" t="Include" />
+        <e p="Raycasting.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
